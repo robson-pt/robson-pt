@@ -1,5 +1,4 @@
-- 👋 Ola, sou Robson Almeida
-- 👀 Estou interessado em iniciar minha carreira como desenvolvedor
-- 🌱 Atualmente estudo HTML5, CC3, Javascript e React
-- 💞️ Quero colaborar com projetos Front-end e aprender mais nesta area
-- 📫 estudos.ti.pt@gmail.com
+- Ola, sou Robson Almeida
+- Sou dev fullstack (Node/React/TypeScript). 
+- Trabalho com AI para acelerar build. Se sua agência precisar de um dev para projeto X, chama.
+📫 estudos.ti.pt@gmail.com
